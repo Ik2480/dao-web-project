@@ -28,9 +28,9 @@ const specializedTracks = () => {
                        {selectedItemData?.quaters.map((item) =>(
                           <QuarterBox 
                          
-                          header={item.header} 
-                          description={item.description} 
-                          haveBorder={false}  />
+                           header={item.header}
+                           description={item.description}
+                           haveBorder={false} Number={item.Number}  />
                         ))
                        }
                          

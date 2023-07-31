@@ -6,17 +6,17 @@ const CoreData = [
     {
         header:'Quarter I',
         description:'CS-101: Object-Oriented Programming using TypeScript',
-        number: '1'
+        Number: 1
     },
     {
         header:'Quarter II',
         description:'W2-201: Developing Planet-Scale Web 2.0 Serverless Cloud Cloud Apps and APIs using Next.js 13 and Cloud Development Kit (CDK) for Terraform',
-        number: '2'
+        Number: 2
     },
     {
         header:'Quarter III',
         description:'$-101: Dollar Making Bootcamp - Full-Stack Template and API Product Development',
-        number: '3'
+        Number: 3
     }
 ];
 const Core = () => {
@@ -39,8 +39,8 @@ const Core = () => {
                         CoreData.map( (item, i) =>(
                            
                         <QuarterBox 
-                        key ={item.number}
-                        header={item.header} description={item.description} number={item.number} />
+                        key ={item.Number}
+                        header={item.header} description={item.description} Number={item.Number} />
                                 
                             ))
                         

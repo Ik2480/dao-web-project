@@ -17,7 +17,7 @@ export const Data = [
             {
              header: "Quarter V" ,
              description: "W2-201: Developing Planet-Scale Web 2.0 Serverless Cloud Cloud Apps and APIs using Next.js 13 and Cloud Development Kit (CDK) for Terraform",
-             myNumber: 4       
+             Number: 4       
             },
             
         ]
@@ -35,7 +35,7 @@ export const Data = [
             {
              header: "Quarter V" ,
              description: "In recent years, REST (REpresentational State Transfer) has emerged as the standard architectural design for web services and web APIs",
-             myNumber: 5      
+             Number: 5     
             },
             
         ]
@@ -53,7 +53,7 @@ export const Data = [
             {
              header: "Quarter V" ,
              description: "W2-201: Developing Planet-Scale Web 2.0 Serverless Cloud Cloud Apps and APIs using Next.js 13 and Cloud Development Kit (CDK) for Terraform",
-             myNumber: 4       
+             Number: 4      
             },
             
         ]
@@ -71,7 +71,7 @@ export const Data = [
             {
              header: "Quarter V" ,
              description: "In recent years, REST (REpresentational State Transfer) has emerged as the standard architectural design for web services and web APIs",
-             myNumber: 5      
+             Number: 5      
             },
             
         ]
